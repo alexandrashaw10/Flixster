@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [ ] For each movie displayed, user can see the following details:
+* [X] For each movie displayed, user can see the following details:
   * [X] Title, Poster Image, Overview (Portrait mode)
   * [X] Title, Backdrop Image, Overview (Landscape mode)
 * [X] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
@@ -24,7 +24,7 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Added a card view to separate the individual list items.
+* [X] Added a card view to separate the individual list items.
 
 ## Video Walkthrough
 
